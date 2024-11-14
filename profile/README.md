@@ -43,6 +43,6 @@ Have a great idea? We'd love to hear it! Open an issue in the relevant repositor
 
 ## 📜 License
 
-All projects under Toolworks.dev are open-source; unless otherwise specified (3rd party packages etc)
+All projects under Toolworks.dev are MIT Licensed; unless otherwise specified (3rd party packages etc)
 
 made4devs ❤️
