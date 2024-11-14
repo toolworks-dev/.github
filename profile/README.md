@@ -15,6 +15,7 @@ From efficient automation scripts to powerful debugging tools and cutting-edge d
 Here are some of the key projects we maintain:
 
 - **auto-md**: Convert Files / Folders / GitHub Repos Into AI / LLM-ready Files https://github.com/toolworks-dev/auto-md **Webapp**: [automd.toolworks.dev](https://automd.toolworks.dev)
+- **trusty-notes**: An E2EE Sync Note Taking WebApp https://github.com/toolworks-dev/trusty-notes
 
 We are constantly working on new stuff so check back often <3
 ---
