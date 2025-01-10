@@ -52,8 +52,8 @@ We’re excited to have you join the **Toolworks.dev** journey! Here’s how you
 ## Next Steps
 
 Ready to dive in? Here’s where to start:
-- Check out our **[Project Showcase](/docs/Get-Started/project-showcase)** to see our tools in action.
-- Visit the **[Tool Guide](/docs/Get-Started/tool-guide)** for a detailed overview of our tools.
+- Check out our **[Project Showcase](https://toolworks.dev/docs/Get-Started/project-showcase)** to see our tools in action.
+- Visit the **[Tool Guide](https://toolworks.dev/docs/Get-Started/tool-guide)** for a detailed overview of our tools.
 - Start contributing by exploring our **[GitHub repository](https://github.com/toolworks-dev)**.
 
 ---
