@@ -1,47 +1,64 @@
-# 🛠️ Toolworks.dev
+# Welcome to **Toolworks.dev**! 🛠️
 
-**Toolworks.dev** – a home for open-source tools designed to simplify, enhance, and empower developers across all skill levels. 🚀
+At **Toolworks.dev**, we are dedicated to creating open-source tools that simplify, enhance, and empower the developer experience.
 
-## 🌟 About Us
-
-We believe in creating high-quality, open-source solutions for the developer community. 
-
-From efficient automation scripts to powerful debugging tools and cutting-edge developer utilities, our goal is to make every coder's life a little easier.
+For the newbiest beginner or an experienced professional, our tools are designed to help you achieve your goals with efficiency and ease. 🚀
 
 ---
 
-## 📚 What We Build
+## 🌟 Why Toolworks.dev?
 
-Here are some of the key projects we maintain:
+- **Empowering Developers**: From automation scripts to innovative debugging utilities, our tools are built to solve real-world problems and optimize workflows.
+- **Open Source First**: Transparency, collaboration, and accessibility are at the core of what we do. All our tools are free to use and open for contributions.
+- **Inclusive Community**: We welcome developers from all walks of life and skill levels. Join us, contribute, and grow as part of a supportive community.
 
-- **auto-md**: Convert Files / Folders / GitHub Repos Into AI / LLM-ready Files https://github.com/toolworks-dev/auto-md **Webapp**: [automd.toolworks.dev](https://automd.toolworks.dev)
-- **trusty-notes**: An E2EE Sync Note Taking WebApp https://github.com/toolworks-dev/trusty-notes
+---
 
-We are constantly working on new stuff so check back often <3
+## 🛠️ Explore Our Tools
+
+### Key Projects
+
+- [auto-md](https://github.com/toolworks-dev/auto-md): Streamline the conversion of files, folders, and GitHub repositories into AI/LLM-ready Markdown formats.
+- [trusty-notes](https://github.com/toolworks-dev/trusty-notes): A privacy-focused, end-to-end encrypted note-taking web app designed for seamless cross-platform use.
+- [image-tools](https://github.com/toolworks-dev/image-tools): A powerful web app for resizing, compressing, and converting images between formats.
+
+### Build stuff!
+We're constantly working on new tools, updating with new features, enhancing user experiences etc
+
+Explore our full collection on [GitHub](https://github.com/toolworks-dev) and discover something new to enhance your workflow.
+
 ---
 
 ## 🎯 Our Mission
 
-- Foster an inclusive community for developers of all levels.
-- Build tools that solve real problems and improve workflows.
-- Promote open collaboration, transparency, and shared knowledge.
+- Build high-quality tools that solve real problems for developers.
+- Foster a collaborative and inclusive community.
+- Share insights, resources, and best practices openly.
+- Empower developers to achieve more, regardless of their experience level.
 
 ---
 
-## 🤝 Get Involved
+## 🤝 How to Get Involved
 
-### 💡 Contribute
-Contributions are always welcome! Here's how you can help:
-1. Browse our projects and find an issue you'd like to work on.
-2. Fork the repository and make your changes.
-3. Submit a pull request for review.
+We’re excited to have you join the **Toolworks.dev** journey! Here’s how you can contribute:
 
-### 🛠️ Suggest a Tool or Feature
-Have a great idea? We'd love to hear it! Open an issue in the relevant repository or contact us directly.
+- **Explore Our Repositories**: Browse our open-source projects on [GitHub](https://github.com/toolworks-dev).
+- **Contribute**: Share your ideas, submit pull requests, or help improve the documentation.
+- **Feedback**: Let us know what you think! Open issues or start discussions on GitHub.
+- **Join the Community**: Connect with us on [Discord](https://discord.gg/fe8HNquKUK) to collaborate, ask questions, and stay updated.
 
 ---
 
+## Next Steps
 
+Ready to dive in? Here’s where to start:
+- Check out our **[Project Showcase](/docs/Get-Started/project-showcase)** to see our tools in action.
+- Visit the **[Tool Guide](/docs/Get-Started/tool-guide)** for a detailed overview of our tools.
+- Start contributing by exploring our **[GitHub repository](https://github.com/toolworks-dev)**.
+
+---
+
+Let’s work together to simplify, enhance, and empower the developer experience. ❤️
 ## 📜 License
 
 All projects under Toolworks.dev are MIT Licensed; unless otherwise specified (3rd party packages etc)
